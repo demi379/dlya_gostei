@@ -1,6 +1,6 @@
 'use strict';
     var array = [];
-
+let test;
 	let kol;
 do {
    kol = prompt("Сколько человек Вас было сегодня?", 'Введите цифру');
